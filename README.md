@@ -1,7 +1,9 @@
-# AI Chat GUI
+# AI Chat Bot
 
 一款 Vibe Coding 搓出来的简易 AI 聊天窗口界面，基于 PySide6 制作，**零 SDK 依赖**（纯标准库 HTTP 客户端），
 原生支持 **Anthropic Messages** 与 **OpenAI Responses** 两种 API 格式，内置 **Agent 工具调用**，还有一只通体乌黑、金瞳圆眼、会蜷睡、奔跑、犯困的可爱玄猫桌宠 🐈‍⬛。
+
+![](demo-1.png)
 
 ## ✨ 功能特性
 
